@@ -19,7 +19,7 @@ python jogo_da_forca.py
 ```
 
 ## Pré-requisitos
-- Python 3.x instalado
+- Python 3.10 instalado
 
 ## Contribuições
 Contribuições são bem-vindas! Se você tiver sugestões de melhorias, correções de bugs ou novas funcionalidades, sinta-se à vontade para abrir uma issue ou enviar um pull request.
