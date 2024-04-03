@@ -12,10 +12,10 @@ Este é um projeto simples que implementa o clássico jogo da forca em Python. O
 
 ## Como Jogar
 
-Para jogar o jogo da forca, basta clonar este repositório e executar o script Python `jogo_da_forca.py`. Siga as instruções fornecidas no terminal para adivinhar letras e tentar revelar a palavra secreta antes de esgotar suas chances.
+Para jogar o jogo da forca, basta clonar este repositório e executar o script Python `main.py`. Siga as instruções fornecidas no terminal para adivinhar letras e tentar revelar a palavra secreta antes de esgotar suas chances.
 
 ```bash
-python jogo_da_forca.py
+python main.py
 ```
 
 ## Pré-requisitos
